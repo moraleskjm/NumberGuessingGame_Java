@@ -37,3 +37,6 @@ Or from terminal:
 ```bash
 javac Main.java
 java Main
+
+---------------
+✍️ README crafted with help from ChatGPT (2025)
